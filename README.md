@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asmusoid
 - 👀 I’m interested in design, gamedev, development & linux
 - 🌱 I’m currently learning graphic design, web-development
-- 💞️ I’m looking to collaborate on VK, Yandex and Sber
+- 💞️ I’m looking to collaborate on VK, Yandex & Sber
 - 📫 How to reach me asmusoid@pm.me
 
 <!---
