@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @asmusoid
-- 👀 I’m interested in design, gamedev, development & linux
-- 🌱 I’m currently learning graphic design, web-development
+- 👀 I’m interested in graphic design, gamedev, development & Linux
+- 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on VK, Yandex & Sber
-- 📫 How to reach me asmusoid@pm.me
+- 📫 How to reach me asmusoid@gmail.com
 
 <!---
 asmusoid/asmusoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
